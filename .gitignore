@@ -28,3 +28,4 @@ dist-ssr
 
 # Licensed skill packs (AI for UI, Interface Craft, Animations.dev): kept locally, never pushed to this public repo
 .claude/skills/
+.codex/skills/
